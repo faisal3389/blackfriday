@@ -1,0 +1,15 @@
+{
+  "name": "LLM Radar",
+  "url": "https://llm-radar-eta.vercel.app/?utm_source=indiegoodies&utm_medium=deal-list&utm_campaign=bf2026",
+  "description": "Activity Monitor for local AI on Mac: see which models Ollama, LM Studio and MLX hold in RAM, which app loaded them, and their disk use",
+  "category": "developer-tools",
+  "platforms": ["mac"],
+  "deal": "40% off Pro with code BF2026: $5.99, was $9.99 (3 Macs $8.99, was $14.99). Until Dec 1",
+  "code": "BF2026",
+  "pricing": "lifetime",
+  "price": { "regular": 9.99, "sale": 5.99, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-20",
+  "endDate": "2026-12-01",
+  "icon": "https://llm-radar-eta.vercel.app/assets/icon-512.png"
+}
